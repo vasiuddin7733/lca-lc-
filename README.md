@@ -24,7 +24,7 @@ Download the course repository
 ```bash
 # Clone the repo
 git clone --depth 1 https://github.com/langchain-ai/lca-lc-foundations.git
-cd lca-lc-foundations
+cd lca-lc-foundation
 ```
 
 Make a copy of example.env
